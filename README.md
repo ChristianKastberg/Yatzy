@@ -1,2 +1,2 @@
-# yatzy-3
-yatzy assignment 3rd semester
+# yatzy
+Lille Yatze app kan køres i visual studio code ved at vælge index.html og trykke alt-b
