@@ -1,2 +1,2 @@
 # yatzy
-Lille Yatze app kan køres i visual studio code ved at vælge index.html og trykke alt-b
+Lille Yatzy app kan køres i visual studio code ved at vælge index.html og trykke alt-b
